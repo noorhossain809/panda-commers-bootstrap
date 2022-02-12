@@ -1,0 +1,57 @@
+/* .main-section{
+    background-color: hsl(0, 0%, 90%);
+} */
+
+.slider-background{
+    background-color: #fdd7ea;
+}
+h4{
+    color: #FF136F;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.icon{
+    color: white !important;
+}
+.watch{
+    background-color: #FF9C35;
+}
+.shoes{
+    background-color: #FF136F;
+}
+.bag{
+    background-color: #4289FF;
+}
+.watch, .shoes, .bag{
+    padding: 10px 30px;
+   
+}
+.categories img{
+    width: 100px;
+}
+.categories h4{
+    color: white;
+}
+.btn-buy{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    
+    cursor: pointer;
+}
+.form-background{
+    background-color: #fdd7ea;
+    height: 355px;
+}
+.btn-search{
+    background-color: #FF136F;
+    width: 120px;
+}
